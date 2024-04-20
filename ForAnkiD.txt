@@ -1,0 +1,220 @@
+2022-06
+QUESTION 1 Tokyo Maru, this is Port City. The pilot you have requested will reach you on your port side. Please lower the pilot ladder on that side.
+2
+QUESTION 2 Hakata Maru, this is Port Control. Reduce your speed below 7 knots. We are reducing the speed limit due to congestion in the fairway.
+1
+QUESTION 3 Misaki Maru, this is Coastguard Radio. We sent firefighting boats immediately after you reported you were on fire. Tell us your current situation.
+4
+QUESTION 4 Tokai Maru, this is Honshu Maru. I have an important message for you. Please move to VHF Channel 6.
+1
+QUESTION 5 Yamato Maru, this is the helicopter pilot. Tell me the situation of the injured crew member and if I can land on your deck.
+4
+2022-02
+QUESTION 1 Nagoya Maru, this is Port City. You have anchored in the wrong position. Anchor in the position designated by the harbor master.
+4
+QUESTION 2 Tokai Maru, this is Port Control. Your berth is North Pier Number Two, but it is occupied now. Wait where you are until 1400 hours local time.
+1
+QUESTION 3 Misaki Maru, this is Coast Guard Radio. We have been informed you have engine trouble and have an injured crew member. What assistance is required?
+3
+QUESTION 4 Nemuro Maru, this is headquarters. We have just heard you have been in a heavy snow storm. What time do you expect to get into port?
+4
+QUESTION 5 Coast Guard Radio, this is Harumi Maru. I have requested ice-breaking assistance but the ice-breaker has not arrived yet. Tell us the situation.
+3
+2021-10
+QUESTION 1 Port City, this is Kawasaki Maru. My ship has a draught of five meters. Is there a sufficient depth of water for me to proceed to the berth?
+4
+QUESTION 2 Harbor master, this is Miura Maru. I want to enter your port to avoid the typhoon. How congested is your port now?
+3
+QUESTION 3 Misaki Maru, this is a fishery inspector. I will inspect your vessel to examine the size of your catch. What tonnage have you caught so far?
+2
+QUESTION 4 Headquarters, this is Kanto Maru. We have a new next port of call. I want to confirm it has an LNG bunkering station.
+2
+QUESTION 5 Harumi Maru, this is the Coast Guard Radio. You have informed us that you have run aground and your ship is listing dangerously. Do you intend to abandon your vessel?
+4
+2021-06
+QUESTION 1 Tokai Maru, this is Port Control. A large vessel is leaving the port. Keep clear of the approach channel.
+3
+QUESTION 2 Yokohama Maru, this is the harbor master. The weather is terrible and the sea, very rough. I want to confirm your ETA is still 1500 hours local time.
+4
+QUESTION 3 Misaki Maru, this is the Coast Guard vessel. I understand you are engaged in a search and rescue operation. Tell me the present situation.
+3
+QUESTION 4 Harumi Maru, this is Port Control. There is a hampered vessel, bearing 30 degrees from the lighthouse distance 20 nautical miles. ADVICE. Keep enough distance from the vessel.
+4
+QUESTION 5 Miura Maru, this is the Coast Guard vessel. I am sailing near you. I was informed that you had engine trouble. What is the situation of your engine now?
+2
+2021-02
+QUESTION 1 Coast Guard Radio, this is Kushiro Maru. We are stuck in thick ice. We request ice-breaking assistance.
+4
+QUESTION 2 Miyagi Maru, this is the Coast Guard vessel. You have told me you are aground. Tell me your present situation.
+3
+QUESTION 3 Yokohama Maru, this is the rescue helicopter. I will start picking up the injured crew member immediately. Can I land on deck right now?
+1
+QUESTION 4 Sendai Maru, this is the fish inspection vessel. Tell us the date you started fishing and how long you will be fishing in these waters.
+2
+QUESTION 5 Tokyo Maru, this is the headquarters of ABC Company. We have been informed the country you last visited is suffering from cholera. You must go to the quarantine anchorage at the next port of call.
+3
+2020-10
+QUESTION 1 Port City, this is Sendai Maru. Where will the pilot come on board?
+4
+QUESTION 2 Harumi Maru, this is Misaki Maru. I cannot see you due to the dense fog. How do you read me?
+3
+QUESTION 3 Kawasaki Maru, this is Port City. I have heard you finished bunkering. When is your departure?
+2
+QUESTION 4 Nagasaki Maru, this is Port Control. You have anchored in the wrong position and are obstructing the fairway. You must anchor clear of the fairway.
+1
+QUESTION 5 Tokai Maru, this is the Coast Guard Radio. We have received your message that you collided with another ship. Tell me your present situation.
+4
+2020-02
+QUESTION 1 Port Control, this is Harumi Maru. What is the visibility in the port now?
+3
+QUESTION 2 Misaki Maru, this is Port City. Your document does not show your next port of call. What is it?
+3
+QUESTION 3 Coast Guard Radio, this is Kanto Maru. I am on fire and have dangerous cargo on board. REQUEST. I require fire-fighting assistance immediately.
+4
+QUESTION 4 Port City, this is Tokai Maru. My stern mooring lines have been cut at the berth. Please send a tug right away because the wind is strong.
+1
+QUESTION 5 Miura Maru, this is Coast Guard Radio. I heard you are engaged in the rescue operation. Tell me the present situation.
+4
+2019-10
+QUESTION 1 Miura Maru, this is the fish inspector. How long have you been fishing in this fishing zone?
+1
+QUESTION 2 Kawasaki Maru, this is the Coast Guard vessel. I understand you are aground. Tell me your situation.
+3
+QUESTION 3 Yokohama Maru, this is Port City. The quarantine anchorage is congested. You have to wait for about an hour.
+1
+QUESTION 4 Nagoya Maru, this is the Coast Guard vessel. A strong tropical storm is moving toward you. Strong care is advised.
+2
+QUESTION 5 Misaki Maru, this is Tokyo Maru. We are sailing toward each other head on. We must alter course and pass each other port to port to prevent a collision.
+4
+2019-06
+QUESTION 1 Harumi Maru, this is the rescue helicopter. I am coming to pick up your patient. How is he now?
+2
+QUESTION 2 Miura Maru. This is the Coast Guard Radio. I am informed that your ship has collided with a cargo ship. What is your damage?
+1
+QUESTION 3 This is the coast guard patrol vessel. You are inside the prohibited fishing area. Why is your vessel in this area?
+4
+QUESTION 4 Kanto Maru, this is Kansai Maru. You have anchored too close to me. You must move to another place.
+2
+QUESTION 5 Kawasaki Maru, this is Port City. On your arrival, the pilot will board you on your starboard side. Please set a pilot ladder 2 meters above the sea level.
+4
+2019-02
+QUESTION 1 This is Nagoya Maru. We will enter the port behind schedule because of the snowstorm. We are about to enter the bay. Can you provide a tugboat service now?
+4
+QUESTION 2 Misaki Maru, this is the captain of the fishing boat, Miura Maru. We will be reaching your area soon. What is the visibility there?
+1
+QUESTION 3 This is a fishery inspection vessel. I must examine the size of your catch. What tonnage have you caught so far on this trip?
+1
+QUESTION 4 This is the headquarters of ABC company. We expected you to arrive around 1600 hours local time but are still waiting for contact from you. What is your estimated time of arrival now?
+4
+QUESTION 5 Miyagi Maru, this is Port Control. I have located you on the radar. There is a dangerous wreck near the fairway. ADVICE. Navigate with caution.
+3
+2018-10
+QUESTION 1 Port City, this is Nagoya Maru. I will anchor in the position you have indicated. At what time shall I come into anchorage?
+2
+QUESTION 2 Osaka Maru, this is Sendai Maru. Vessel on opposite course is about to pass my port side. DonÅft overtake me on the same side.
+4
+QUESTION 3 Yokohama Coast Guard Radio, this is Kawasaki Maru. I have a badly injured crew member. I need a helicopter immediately to pick him up.
+3
+QUESTION 4 Yokohama Maru, this is Port Control. ADVICE. Show one black ball while you are at anchor for safety.
+2
+QUESTION 5 Honshu Maru, this is Port Control. A large fishing boat is approaching on your port side. ADVICE. Warn the boat with your whistle to prevent a collision.
+1
+2018-06
+QUESTION 1 Suisan Maru, this is a fishing inspection vessel. Have you already sent notification of your fishing operations?
+4
+QUESTION 2 Yokohama Maru, this is Port Control. The cruise ship will turn ahead of you. You must stay clear of the fairway.
+3
+QUESTION 3 Sendai Maru, this is Port City. Because of the bad weather, the pilot will reach you at the meeting point in the tug boat instead of the pilot boat. Stay at the point near number one buoy.
+2
+QUESTION 4 Tokyo Maru, this is Port City. On account of the problem at the originally assigned berth, we are arranging a new berth for you. We want to confirm whether you can pass under the bridge. What is your air draught?
+1
+QUESTION 5 Osaka Maru, this is Coast Guard Radio. We received your urgent message and understand you need our help to extinguish the fire in the galley. We have just asked fire boats to go to you. Keep us informed of the situation.
+4
+2018-02
+QUESTION 1 Tokyo Maru, this is Port Control. You are blocking the fairway. Instruction. Don't anchor there. Leave the spot immediately.
+3
+QUESTION 2 Kushiro Maru, I will start the icebreaker assistance now. There is light ice ahead. I will tow you there. You can proceed to the port from there.
+1
+QUESTION 3 This is the fishery inspection vessel. You have just entered the fishing zone. Have you already reported the start of fishing operations?
+2
+QUESTION 4 Port City, this is Honshu Maru. No countries we have visited are on the list for epidemic diseases. Do we have to go through a full quarantine check at the port?
+1
+QUESTION 5 Yokohama Maru, this is Osaka Maru. I wish to overtake you on your port side. Is that all right for you?
+4
+2017-10
+QUESTION 1 Tokyo Maru, this is Port Control. We are expecting an unusually low tide in our port area. We need to confirm your draught.
+2
+QUESTION 2 Yokohama Maru, this is the headquarters of ABC company. We received your message saying that you are now discharging the cargo. When will you finish unloading?
+3
+QUESTION 3 Sendai Maru, this is Port Control. Oil is being cleared near No.1 buoy. We advise you not to approach that area as you enter the port.
+3
+QUESTION 4 Yokohama Maru, this is Osaka Maru. I wish to pass ahead of you. Is that all right for you?
+3
+QUESTION 5 Nagoya Maru, this is Port Control. Ships of your size should have two tugs to enter this port according to the rule. Have you arranged them already?
+2
+2017-06
+QUESTION 1 Tokyo Maru, this is Port Control. Your berth will be clear at 1800 hours local time. Stand by on Channel 14.
+3
+QUESTION 2 Sendai Maru 2, this is Sendai Maru 1. We want to test the reception of the new VHF transceiver. How do you read me?
+4
+QUESTION 3 I understand your new ship has a smaller engine than before. Do you have enough power to keep up with us?
+2
+QUESTION 4 Osaka Maru, this is the headquarters of ABC Company. We have just heard you have been delayed by severe weather conditions in your area. Can you give us your estimated time of arrival in Tokyo?
+2
+QUESTION 5 I am a fishery inspector and need to inspect the size of your catch.
+1
+2017-02
+QUESTION 1 As you know, the berths are congested. Your departure is one hour overdue. Please leave the port immediately.
+2
+QUESTION 2 We are expecting ice in our sea area because of the falling temperature. Can we request your assistance if we need help?
+1
+QUESTION 3 I understand you are proceeding in an area where many ships have been attacked by pirates. Have you had any problems so far?
+4
+QUESTION 4 We can see from the weather information that a storm is going to reach us within 12 hours. Can you see any signs of the approaching storm at present?
+3
+QUESTION 5 NAVTEX shows that some logs are drifting toward you on the current. Can you see them?
+4
+2016-10
+QUESTION 1 I heard that you encountered a big storm near the Ogasawara Islands and had some trouble with your cargo. What was the problem?
+4
+QUESTION 2 Nagoya Maru, this is the Japan Coast Guard. You told us that you had a badly injured person on board. Do you need a helicopter to transport the patient to a hospital?
+1
+QUESTION 3 I hear that you have been working on board almost six months now. What do you do for exercise?
+3
+QUESTION 4 Kushiro Maru, this is the captain of Fukuoka Maru. I understand that your vessel is a newly built cargo ship. What cargo do you carry?
+1
+QUESTION 5 I know you are visiting some countries in the Caribbean Sea to take on coffee. How will you return to San Francisco?
+2
+2016-06
+QUESTION 1 Nagoya Maru, this is the harbor master. You need to leave port on time. Are you ready to get underway?
+2
+QUESTION 2 According to your report, you are entering port in Fiji. What do you intend to do there?
+3
+QUESTION 3 Tokyo Maru, this is the Rescue Coordination Center. We have received information concerning a drifting fishing boat. Can you inform us if you find something?
+4
+QUESTION 4 Harbor master, this is the captain of the fishing boat, Wakashio Maru. We want to anchor in a safe berth to avoid the typhoon. How congested is your port at present?
+1
+QUESTION 5 Nagasaki Maru, this is the Japan Coast Guard. We have received your message that you collided with an object, possibly a whale. What is the condition of your ship now?
+4
+2016-02
+QUESTION 1 Hokkai Maru, this is Kushiro Maru. You are proceeding slowly through ice. How thick is the ice?
+2
+QUESTION 2 I understand that your new passenger liner was launched last week. When does the ship sail on its maiden voyage?
+4
+QUESTION 3 Yokohama Maru, this is the Rescue Coordination Center. Please rush to help the ship which sent the distress signal.
+3
+QUESTION 4 Tokyo Maru, this is the coast guard. I understand you have returned from searching for the missing fishermen. Did you have any success?
+1
+QUESTION 5 Osakawan PilotsÅf Association, this is the shipping agent. As we informed you previously, we need a pilot to take a 100,000-ton tanker to the anchorage.
+3
+2014-06
+QUESTION 1 This is Tokyo Maru. How many tropical storms did you encounter this summer?
+2
+QUESTION 2 This is Misaki Maru. You told me that you had found a good fishing ground, but you have now suspended fishing. Why?
+3
+QUESTION 3 We heard by radio that you could not move. What exact problems do you have now?
+4
+QUESTION 4 We will be arriving at the port on schedule. Do we have any speed restrictions on the fairway?
+4
+QUESTION 5 This is the patrol ship. We are informed you have been spilling oil in the fairway. How are you dealing with it now?
+1
